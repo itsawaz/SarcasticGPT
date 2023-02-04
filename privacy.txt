@@ -1,0 +1,27 @@
+SarcasticGPT Privacy Policy
+
+Last updated: 2023-02-04
+
+At SarcasticGPT, we are committed to protecting the privacy of our users. This Privacy Policy outlines the information we collect, how we use it, and the steps we take to ensure your personal data remains secure.
+
+Information we collect:
+Information you provide: We collect information that you voluntarily provide to us, such as your name, email address, and other contact information.
+Log data: When you use the SarcasticGPT service, we automatically collect log data, including your IP address, browser type, device information, and activity data.
+How we use your information:
+To provide you with our services: We use the information you provide to us to offer you the SarcasticGPT service and to respond to your requests.
+To improve our services: We may use log data to understand how people use our service and to make improvements.
+Information sharing and disclosure:
+Service providers: We may share your information with third-party service providers who help us operate and provide our services. These service providers are subject to strict confidentiality obligations and are only permitted to use your information to provide services to us.
+Legal compliance: We may be required to share your information if we believe in good faith that it is necessary to comply with applicable law or respond to legal process.
+Data security:
+Security measures: We take appropriate technical and organizational measures to protect your personal data against unauthorized access, alteration, or destruction.
+Retention: We retain your information for as long as necessary to provide our services and to comply with our legal obligations.
+Your rights:
+Access: You have the right to access the personal data we hold about you and to receive information about its use.
+Correction: If the personal data we hold about you is inaccurate, you have the right to have it corrected.
+Deletion: You have the right to request that we delete your personal data.
+Objection: You have the right to object to our processing of your personal data.
+Withdrawal: You have the right to withdraw your consent for us to process your personal data at any time.
+If you have any questions about this Privacy Policy or our use of your personal data, please contact us at support@sarcasticgpt.com.
+
+By using the SarcasticGPT service, you agree to the terms of this Privacy Policy.
